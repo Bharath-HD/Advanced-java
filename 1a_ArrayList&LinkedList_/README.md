@@ -1,1 +1,1 @@
-listOperation o/p- https://github.com/Bharath-HD/Advanced-java/blob/main/LinkedList_1a/Screenshot%202025-05-19%20180028.png
+listOperation o/p- (https://github.com/Bharath-HD/Advanced-java/blob/main/1a_ArrayList%26LinkedList_/exp1.png)
