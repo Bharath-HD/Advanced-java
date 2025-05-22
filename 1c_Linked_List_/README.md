@@ -1,9 +1,9 @@
-LinkedListElementPositions O/P- https://github.com/Bharath-HD/Advanced-java/blob/main/Linked_List_1c/Screenshot%202025-05-19%20182859.png
+LinkedListElementPositions O/P- https://github.com/Bharath-HD/Advanced-java/blob/main/1c_Linked_List_/1c.png
 
-LinkedListIteratorExample O/P- https://github.com/Bharath-HD/Advanced-java/blob/main/Linked_List_1c/Screenshot%202025-05-19%20182914.png
+LinkedListIteratorExample O/P- https://github.com/Bharath-HD/Advanced-java/blob/main/1c_Linked_List_/1c.png
 
-LinkedListOfferLast O/P- https://github.com/Bharath-HD/Advanced-java/blob/main/Linked_List_1c/Screenshot%202025-05-19%20182938.png
+LinkedListOfferLast O/P- https://github.com/Bharath-HD/Advanced-java/blob/main/1c_Linked_List_/1c.png
 
-LinkedListReverseIteration O/P- https://github.com/Bharath-HD/Advanced-java/blob/main/Linked_List_1c/Screenshot%202025-05-19%20182954.png
+LinkedListReverseIteration O/P- https://github.com/Bharath-HD/Advanced-java/blob/main/1c_Linked_List_/1c.png
 
-LinkedListSwapElement O/P- https://github.com/Bharath-HD/Advanced-java/blob/main/Linked_List_1c/Screenshot%202025-05-19%20183008.png
+LinkedListSwapElement O/P-https://github.com/Bharath-HD/Advanced-java/blob/main/1c_Linked_List_/1c.png
