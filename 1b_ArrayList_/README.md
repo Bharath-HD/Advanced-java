@@ -4,6 +4,5 @@ ColorRemove O/P-(https://github.com/Bharath-HD/Advanced-java/blob/main/1b_ArrayL
 
 ColorSort O/P-https:(https://github.com/Bharath-HD/Advanced-java/blob/main/1b_ArrayList_/1bq4.png)
 
-ColorSubList O/P-https://github.com/Bharath-HD/Advanced-java/blob/main/ArrayList_1b/Screenshot%202025-05-19%20181124.png
-
+ColorSubList O/P-https:https://github.com/Bharath-HD/Advanced-java/blob/main/1b_ArrayList_/1bq5.png
 SearchColor O/P-https://github.com/Bharath-HD/Advanced-java/blob/main/ArrayList_1b/Screenshot%202025-05-19%20181136.png
