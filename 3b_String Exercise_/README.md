@@ -4,7 +4,7 @@ nullorwhitespace o/p- https://github.com/Bharath-HD/Advanced-java/blob/main/3b_S
 
 palindromechecker o/p- https://github.com/Bharath-HD/Advanced-java/blob/main/3b_String%20Exercise_/3bq4.png
 
-reversestring o/p- https://github.com/Bharath-HD/Advanced-java/blob/main/String%20Exercise_3b/Screenshot%202025-05-19%20190629.png
+reversestring o/p- https:https://github.com/Bharath-HD/Advanced-java/blob/main/3b_String%20Exercise_/3bq3.png
 
 substringcounter o/p- https://github.com/Bharath-HD/Advanced-java/blob/main/String%20Exercise_3b/Screenshot%202025-05-19%20190833.png
 
