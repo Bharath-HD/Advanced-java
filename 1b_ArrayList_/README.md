@@ -1,6 +1,6 @@
 ColorRemove O/P-https://github.com/Bharath-HD/Advanced-java/blob/main/ArrayList_1b/Screenshot%202025-05-19%20181032.png
 
-ColorRemoveByIndex O/P-https://github.com/Bharath-HD/Advanced-java/blob/main/ArrayList_1b/Screenshot%202025-05-19%20181047.png
+(https://github.com/Bharath-HD/Advanced-java/blob/main/1b_ArrayList_/1bq1.png)
 
 ColorSort O/P-https://github.com/Bharath-HD/Advanced-java/blob/main/ArrayList_1b/Screenshot%202025-05-19%20181105.png
 
