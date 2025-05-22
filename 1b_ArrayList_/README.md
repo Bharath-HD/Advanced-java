@@ -1,4 +1,4 @@
-ColorRemove O/P-https://github.com/Bharath-HD/Advanced-java/blob/main/ArrayList_1b/Screenshot%202025-05-19%20181032.png
+ColorRemove O/P-(https://github.com/Bharath-HD/Advanced-java/blob/main/1b_ArrayList_/1bq2.png)
 
 (https://github.com/Bharath-HD/Advanced-java/blob/main/1b_ArrayList_/1bq1.png)
 
