@@ -1,6 +1,6 @@
 
 
-nullorwhitespace o/p- https://github.com/Bharath-HD/Advanced-java/blob/main/String%20Exercise_3b/Screenshot%202025-05-19%20190400.png
+nullorwhitespace o/p- https://github.com/Bharath-HD/Advanced-java/blob/main/3b_String%20Exercise_/3bq1.png
 
 palindromechecker o/p- https://github.com/Bharath-HD/Advanced-java/blob/main/String%20Exercise_3b/Screenshot%202025-05-19%20190552.png
 
