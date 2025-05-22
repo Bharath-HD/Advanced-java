@@ -8,4 +8,4 @@ reversestring o/p- https:https://github.com/Bharath-HD/Advanced-java/blob/main/3
 
 substringcounter o/p- https://github.com/Bharath-HD/Advanced-java/blob/main/3b_String%20Exercise_/3bq2.png
 
-whitespaceremover o/p- https://github.com/Bharath-HD/Advanced-java/blob/main/String%20Exercise_3b/Screenshot%202025-05-19%20190925.png
+whitespaceremover o/p- https:https://github.com/Bharath-HD/Advanced-java/blob/main/3b_String%20Exercise_/3bq5.png
