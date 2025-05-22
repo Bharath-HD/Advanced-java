@@ -6,4 +6,4 @@ ColorSort O/P-https:(https://github.com/Bharath-HD/Advanced-java/blob/main/1b_Ar
 
 ColorSubList O/P-https:https://github.com/Bharath-HD/Advanced-java/blob/main/1b_ArrayList_/1bq5.png
 
-SearchColor O/P-https://https://github.com/Bharath-HD/Advanced-java/blob/main/1b_ArrayList_/1bq6.png
+SearchColor O/P-https:https://github.com/Bharath-HD/Advanced-java/blob/main/1b_ArrayList_/1bq6.png
